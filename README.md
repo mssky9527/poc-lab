@@ -68,7 +68,7 @@ This repository is for **security research and educational purposes only**.
 - The author assumes no liability for misuse.
 - Always follow responsible disclosure practices.
 
-## Related
+## Links
 
 - [VulnClaw](https://github.com/Unclecheng-li/VulnClaw) — AI-powered penetration testing framework
 
